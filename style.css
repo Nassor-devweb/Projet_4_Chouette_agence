@@ -71,6 +71,14 @@ a:focus, button:focus{
     justify-content: center;
     width: 50%;
 }
+#accueil{
+    min-width: 48px;
+    min-height: 48px;
+}
+#contact{
+    min-width: 48px;
+    min-height: 48px;
+}
 
 .page_2 .text-center.hero-bloc-text.tc-white{
     width: 70%;
