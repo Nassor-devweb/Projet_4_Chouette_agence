@@ -72,10 +72,12 @@ a:focus, button:focus{
     width: 50%;
 }
 #accueil{
+    display: block;
     min-width: 48px;
     min-height: 48px;
 }
-#contact{
+#contact2 {
+    display: block;
     min-width: 48px;
     min-height: 48px;
 }
